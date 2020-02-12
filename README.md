@@ -1,10 +1,10 @@
-# <b>Deformable Kernels</b> [[ICLR 2020]](https://arxiv.org/abs/1910.02940)
+# <b>Deformable Kernels</b> [[ICLR 2020]](https://arxiv.org/abs/1910.02940) [[Website]](https://people.eecs.berkeley.edu/~hangg/deformable-kernels/)
 
-<img src='http://people.eecs.berkeley.edu/~hangg/projects/deformable-kernels/resources/erf_visualization.png' width=1024>
+<img src='http://people.eecs.berkeley.edu/~hangg/projects/deformable-kernels/materials/erf_visualization.png' width=1024>
 
 **Deformable Kernels: Adapting Effective Receptive Fields for Object Deformation** <br>
-[Hang Gao<sup>*</sup>](http://people.eecs.berkeley.edu/~hangg/), Xizhou
-Zhu<sup>*</sup>, Steve Lin, [Jifeng Dai](https://jifengdai.org/). <br>
+[Hang Gao<sup>*</sup>](http://people.eecs.berkeley.edu/~hangg/), [Xizhou
+Zhu<sup>*</sup>](https://scholar.google.com/citations?user=02RXI00AAAAJ&hl=en&oi=ao), [Steve Lin](https://scholar.google.com/citations?user=c3PYmxUAAAAJ&hl=en&oi=ao), [Jifeng Dai](https://jifengdai.org/). <br>
 In [ICLR, 2020](https://arxiv.org/abs/1910.02940).
 
 This repository contains official implementation of deformable kernels. <br>
@@ -42,7 +42,7 @@ pip install -e .;
 
 ## (1) Customized operators
 
-<img src='http://people.eecs.berkeley.edu/~hangg/projects/deformable-kernels/resources/dk_forward.png' width=768>
+<img src='http://people.eecs.berkeley.edu/~hangg/projects/deformable-kernels/materials/dk_forward.png' width=768>
 
 This repo includes all deformable kernel variants described in our paper, namely:
 
